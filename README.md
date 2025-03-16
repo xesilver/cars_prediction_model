@@ -18,3 +18,6 @@ The data is in the `data` folder. Once data has been put in the directory it sho
 
 The EDA can be found in the eda.ipynb.
 
+## Git
+
+Before commit run `pre-commit install`
